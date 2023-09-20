@@ -1,2 +1,1 @@
-# dibisible2
-trabajo del 20/09/2023
+# Divisible2
